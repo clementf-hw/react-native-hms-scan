@@ -1,6 +1,6 @@
 # react-native-hms-scan
 
-HMS Scan Kit(https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/scan-introduction-4)'s feature would be progressively integrated into this repo.
+HMS Scan Kit( https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/scan-introduction-4 )'s feature would be progressively integrated into this repo.
 
 Current available feature:
 1. Barcode Scanner (Default View): https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/scan-default4
